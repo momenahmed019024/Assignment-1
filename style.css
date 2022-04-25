@@ -1,0 +1,61 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.color {
+    color: rgb(255, 174, 0);
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(242, 10, 10), rgb(110, 110, 239));
+    padding: 11px 22px;
+    border-radius: 20px;
+
+}
+
+section {
+    display: flex;
+
+}
+
+.helf-width {
+    width: 50%;
+
+
+}
+
+.helf-width img {
+    width: 60%;
+
+}
+
+.experience-area {
+    background-image: url("Momen3.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.one-third {
+    width: 450px;
+    box-shadow: 20px 30px 20px rgb(216, 206, 206);
+    border: 20px solid white;
+    margin: 20px 20px 20px 20px;
+    border-radius: 30px;
+
+
+
+
+
+
+}
+
+.one-third img {
+    width: 400px;
+    border-radius: 30px;
+
+}
+
+.center {
+    text-align: center;
+}
